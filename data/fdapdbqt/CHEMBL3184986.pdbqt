@@ -1,0 +1,10 @@
+REMARK SMILES CC(=O)[O-]
+REMARK SMILES IDX 1 1 2 2 3 3 4 4
+REMARK H PARENT
+ROOT
+ATOM      1  C   UNL     1      -0.628  -0.033  -0.120  1.00  0.00     0.063 C 
+ATOM      2  C   UNL     1       0.862   0.050   0.162  1.00  0.00     0.038 C 
+ATOM      3  O   UNL     1       1.332  -0.924   0.813  1.00  0.00    -0.550 OA
+ATOM      4  O   UNL     1       1.439   1.078  -0.288  1.00  0.00    -0.550 OA
+ENDROOT
+TORSDOF 0

@@ -1,0 +1,10 @@
+REMARK SMILES O=C([O-])[O-]
+REMARK SMILES IDX 1 1 2 2 3 3 4 4
+REMARK H PARENT
+ROOT
+ATOM      1  O   UNL     1      -0.167   1.273   0.024  1.00  0.00    -0.652 OA
+ATOM      2  C   UNL     1       0.013   0.019  -0.000  1.00  0.00    -0.043 C 
+ATOM      3  O   UNL     1      -1.132  -0.773   0.047  1.00  0.00    -0.652 OA
+ATOM      4  O   UNL     1       1.287  -0.519  -0.070  1.00  0.00    -0.652 OA
+ENDROOT
+TORSDOF 0
