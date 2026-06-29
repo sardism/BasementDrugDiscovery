@@ -1,0 +1,9 @@
+BasementDrugDiscovery -- FDA Approved Drug Library
+==================================================
+Source: ChEMBL REST API (max_phase=4)
+Total compounds: 2873
+MW range: 150.1 to 990.3 Da
+Median MW: 376.4 Da
+Median LogP: 2.80
+PAINS filtered: Yes
+Inorganic removed: Yes
