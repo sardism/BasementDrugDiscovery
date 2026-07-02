@@ -1,0 +1,53 @@
+{
+  "aspergillus_fumigatus": {
+    "pdb_id": "5FRB",
+    "chain": "A",
+    "ligand_resname": "VT2",
+    "receptor_pdb": "/home/sardism/BasementDrugDiscovery/data/structures/aspergillus_fumigatus_receptor.pdb",
+    "ligand_pdb": "/home/sardism/BasementDrugDiscovery/data/structures/aspergillus_fumigatus_ligand.pdb",
+    "grid_box": {
+      "center_x": 300.648,
+      "center_y": 10.702,
+      "center_z": 11.379,
+      "size_x": 43.922,
+      "size_y": 25.546,
+      "size_z": 24.354,
+      "padding_used": 10.0
+    },
+    "receptor_pdbqt": "/home/sardism/BasementDrugDiscovery/data/structures/aspergillus_fumigatus_receptor.pdbqt"
+  },
+  "candida_albicans_sc5314": {
+    "pdb_id": "5V5Z",
+    "chain": "A",
+    "ligand_resname": "1YN",
+    "receptor_pdb": "/home/sardism/BasementDrugDiscovery/data/structures/candida_albicans_sc5314_receptor.pdb",
+    "ligand_pdb": "/home/sardism/BasementDrugDiscovery/data/structures/candida_albicans_sc5314_ligand.pdb",
+    "grid_box": {
+      "center_x": -38.038,
+      "center_y": -19.281,
+      "center_z": 24.569,
+      "size_x": 34.002,
+      "size_y": 38.327,
+      "size_z": 34.71,
+      "padding_used": 10.0
+    },
+    "receptor_pdbqt": "/home/sardism/BasementDrugDiscovery/data/structures/candida_albicans_sc5314_receptor.pdbqt"
+  },
+  "homo_sapiens": {
+    "pdb_id": "6UEZ",
+    "chain": "A",
+    "ligand_resname": "LAN",
+    "receptor_pdb": "/home/sardism/BasementDrugDiscovery/data/structures/homo_sapiens_receptor.pdb",
+    "ligand_pdb": "/home/sardism/BasementDrugDiscovery/data/structures/homo_sapiens_ligand.pdb",
+    "grid_box": {
+      "center_x": -29.059,
+      "center_y": -33.0,
+      "center_z": 15.889,
+      "size_x": 25.533,
+      "size_y": 33.077,
+      "size_z": 30.719,
+      "padding_used": 10.0
+    },
+    "receptor_pdbqt": "/home/sardism/BasementDrugDiscovery/data/structures/homo_sapiens_receptor.pdbqt"
+  }
+}
