@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0870
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0535
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6204
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.2785
+HEADER 10 - Pocket volume (convex hull)       : 2.3854
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM    571   CG GLU A 514     -47.100 -33.980  27.519  0.00  0.00           C 0
+ATOM    904   CG MET A 189     -49.696 -30.174  26.194  0.00  0.00           C 0
+ATOM    555    O PRO A 512     -47.480 -29.354  29.932  0.82  1.07           O 0
+ATOM    550  CD1 LEU A 511     -44.569 -27.616  27.959  0.00  0.00           C 0
+ATOM    572   CD GLU A 514     -47.149 -34.420  26.036  0.00  0.00           C 0
+ATOM    573  OE1 GLU A 514     -47.959 -33.858  25.247  0.77  3.21           O 0
+ATOM    906   CE MET A 189     -48.652 -27.674  25.804  0.00  0.00           C 0
+ATOM    903   CB MET A 189     -50.086 -30.492  24.791  0.00  0.00           C 0
+ATOM    566    N GLU A 514     -47.426 -32.817  30.108  0.68  2.19           N 0
+ATOM    560   CA THR A 513     -46.594 -31.218  31.721  0.00  0.00           C 0
+ATOM    496  OD1 ASP A 504     -41.304 -27.999  29.457  0.41  5.36           O 0
+ATOM    495   CG ASP A 504     -41.338 -28.424  30.635  0.00  0.00           C 0
+ATOM    494   CB ASP A 504     -42.634 -28.312  31.430  0.00  0.00           C 0
+ATOM    565  CG2 THR A 513     -45.429 -33.248  32.563  0.00  0.00           C 0
+ATOM    564  OG1 THR A 513     -44.689 -31.049  33.213  0.72  6.43           O 0
+ATOM    497  OD2 ASP A 504     -40.341 -28.918  31.193  0.00  0.00           O 0
+TER
+END

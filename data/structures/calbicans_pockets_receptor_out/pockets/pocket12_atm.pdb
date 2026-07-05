@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0143
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9146
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5442
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 33.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.9962
+HEADER 10 - Pocket volume (convex hull)       : 13.0044
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM    641   CD LYS A 522     -72.224 -31.334  21.326  0.00  0.00           C 0
+ATOM    643   NZ LYS A 522     -74.191 -31.654  19.781  0.05  8.75           N 0
+ATOM    822  CD1 LEU A 178     -69.031 -29.380  20.730  0.00  0.00           C 0
+ATOM    820   CB LEU A 178     -69.256 -30.897  18.750  0.00  0.00           C 0
+ATOM    379  ND2 ASN A 490     -71.277 -24.434  21.411  0.00  0.00           N 0
+ATOM    376   CB ASN A 490     -69.804 -25.834  22.717  0.00  0.00           C 0
+ATOM    662  OE1 GLU A 524     -76.594 -26.076  23.728  0.00  0.00           O 0
+ATOM    657    C GLU A 524     -75.819 -30.130  22.969  0.00  0.00           C 0
+ATOM    375    O ASN A 490     -70.563 -27.985  24.756  0.00  0.00           O 0
+ATOM    373   CA ASN A 490     -70.487 -25.706  24.085  0.00  0.00           C 0
+ATOM    377   CG ASN A 490     -70.032 -24.633  21.837  0.00  0.00           C 0
+ATOM    727  CD2 LEU A 167     -68.685 -23.286  17.857  0.00  0.00           C 0
+ATOM    755  CD2 PHE A 170     -66.394 -26.132  20.014  0.00  0.00           A 0
+ATOM    764  CG1 VAL A 171     -68.604 -28.341  14.246  0.00  0.00           C 0
+ATOM    752   CB PHE A 170     -66.074 -27.600  18.035  0.00  0.00           C 0
+ATOM    829   CG LYS A 179     -71.914 -31.096  14.078  0.00  0.00           C 0
+ATOM    819    O LEU A 178     -71.492 -32.885  18.235  0.00  0.00           O 0
+ATOM    655    N GLU A 524     -75.182 -29.028  25.039  0.65  1.09           N 0
+TER
+END

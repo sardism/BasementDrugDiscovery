@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0239
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9078
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3907
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 23.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.0174
+HEADER 10 - Pocket volume (convex hull)       : 4.9121
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2593
+ATOM     21   OH TYR A  79     -24.863 -16.433  47.943  0.00  0.00           O 0
+ATOM    155   CB SER A  42     -16.688 -13.288  48.050  0.00  0.00           C 0
+ATOM    219    O LEU A  50     -23.106 -16.062  44.996  0.00  0.00           O 0
+ATOM     18  CE1 TYR A  79     -25.610 -14.246  48.558  0.00  0.00           A 0
+ATOM    156   OG SER A  42     -16.593 -14.604  47.550  0.00  0.00           O 0
+ATOM    216    N LEU A  50     -23.500 -13.232  44.457  0.51  1.09           N 0
+ATOM    213   CB PRO A  49     -24.862 -11.267  46.735  0.00  0.00           C 0
+ATOM    207    O ALA A  48     -22.866  -9.854  43.341  0.66  4.29           O 0
+ATOM    196    O ARG A  47     -21.585  -7.492  44.556  0.40  7.50           O 0
+ATOM    210   CA PRO A  49     -24.004 -11.098  45.478  0.00  0.00           C 0
+ATOM    154    O SER A  42     -17.481 -10.179  47.938  0.00  0.00           O 0
+ATOM    152   CA SER A  42     -16.948 -12.281  46.930  0.00  0.00           C 0
+ATOM    220   CB LEU A  50     -22.235 -14.314  42.641  0.00  0.00           C 0
+ATOM    146  CD2 TYR A  41     -18.676 -12.079  41.927  0.00  0.00           A 0
+ATOM    113    O GLN A  38     -16.370 -16.174  44.506  0.51  2.14           O 0
+ATOM    117  OE1 GLN A  38     -19.645 -19.113  43.313  0.34  4.29           O 0
+ATOM    151    N SER A  42     -16.189 -12.634  45.732  0.67  1.09           N 0
+ATOM    142    O TYR A  41     -17.000 -10.878  44.567  0.44  2.14           O 0
+TER
+END

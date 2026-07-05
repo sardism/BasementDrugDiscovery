@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0202
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9994
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6670
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -28.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.6243
+HEADER 10 - Pocket volume (convex hull)       : 8.6672
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM   2159   CD GLU A 343     -81.295  -7.637  28.940  0.00  0.00           C 0
+ATOM   2158   CG GLU A 343     -80.191  -8.643  28.645  0.00  0.00           C 0
+ATOM   2161  OE2 GLU A 343     -81.561  -7.374  30.134  0.00  0.00           O 0
+ATOM   2150   CD LYS A 342     -83.046 -14.872  29.332  0.00  0.00           C 0
+ATOM   2147    O LYS A 342     -82.475 -11.812  25.906  0.31  4.29           O 0
+ATOM   2160  OE1 GLU A 343     -81.892  -7.104  27.976  0.00  0.00           O 0
+ATOM   2146    C LYS A 342     -81.322 -12.030  26.299  0.00  0.00           C 0
+ATOM   2149   CG LYS A 342     -82.657 -14.485  27.915  0.00  0.00           C 0
+ATOM   2148   CB LYS A 342     -81.212 -14.019  27.830  0.00  0.00           C 0
+ATOM   2153    N GLU A 343     -80.466 -11.049  26.591  0.00  0.00           N 0
+ATOM   2122    O GLU A 339     -78.366 -11.496  29.166  0.62  1.07           O 0
+ATOM   2123   CB GLU A 339     -77.084 -12.867  31.803  0.00  0.00           C 0
+ATOM   2124   CG GLU A 339     -77.473 -13.736  32.986  0.00  0.00           C 0
+ATOM   2120   CA GLU A 339     -77.589 -13.365  30.452  0.00  0.00           C 0
+ATOM   2152   NZ LYS A 342     -82.752 -16.444  31.196  0.00  0.00           N 0
+ATOM   2125   CD GLU A 339     -76.979 -13.171  34.314  0.00  0.00           C 0
+ATOM   2126  OE1 GLU A 339     -76.184 -12.201  34.299  0.83  4.29           O 0
+TER
+END
