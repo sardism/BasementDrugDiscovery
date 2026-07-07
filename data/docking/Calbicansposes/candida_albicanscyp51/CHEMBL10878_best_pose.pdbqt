@@ -1,0 +1,41 @@
+MODEL 1
+REMARK VINA RESULT:    -8.855      0.000      0.000
+REMARK INTER + INTRA:         -11.291
+REMARK INTER:                 -10.925
+REMARK INTRA:                  -0.366
+REMARK UNBOUND:                -0.366
+REMARK SMILES COc1ccc2cccc(CCNC(C)=O)c2c1
+REMARK SMILES IDX 11 1 10 2 3 3 4 4 18 5 5 6 17 7 6 8 7 9 9 10 8 11 2 12 1 13
+REMARK SMILES IDX 12 14 13 15 14 16 16 17 15 19
+REMARK H PARENT 13 18
+ROOT
+ATOM      1  C   UNL     1     -40.493 -10.436  23.655  1.00  0.00     0.057 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -41.766 -11.223  23.396  1.00  0.00    -0.038 A 
+ATOM      3  C   UNL     1     -42.409 -10.889  19.679  1.00  0.00     0.119 A 
+ATOM      4  C   UNL     1     -43.554 -11.667  19.556  1.00  0.00     0.047 A 
+ATOM      5  C   UNL     1     -41.818 -10.737  20.938  1.00  0.00     0.055 A 
+ATOM      6  C   UNL     1     -44.100 -12.282  20.684  1.00  0.00     0.012 A 
+ATOM      7  C   UNL     1     -42.341 -11.350  22.100  1.00  0.00    -0.011 A 
+ATOM      8  C   UNL     1     -43.512 -12.134  21.951  1.00  0.00    -0.018 A 
+ATOM      9  C   UNL     1     -44.085 -12.761  23.067  1.00  0.00     0.009 A 
+ATOM     10  C   UNL     1     -42.371 -11.862  24.495  1.00  0.00     0.004 A 
+ATOM     11  C   UNL     1     -43.521 -12.624  24.331  1.00  0.00     0.001 A 
+BRANCH   3  12
+ATOM     12  O   UNL     1     -41.772 -10.228  18.665  1.00  0.00    -0.497 OA
+ATOM     13  C   UNL     1     -42.434 -10.186  17.407  1.00  0.00     0.278 C 
+ENDBRANCH   3  12
+ENDBRANCH   1   2
+BRANCH   1  14
+ATOM     14  C   UNL     1     -39.459 -11.197  24.492  1.00  0.00     0.120 C 
+BRANCH  14  15
+ATOM     15  N   UNL     1     -38.750 -12.207  23.724  1.00  0.00    -0.356 N 
+ATOM     16  C   UNL     1     -38.044 -13.206  24.356  1.00  0.00     0.216 C 
+ATOM     17  O   UNL     1     -38.068 -13.402  25.566  1.00  0.00    -0.275 OA
+ATOM     18  H   UNL     1     -38.428 -11.930  22.803  1.00  0.00     0.163 HD
+ATOM     19  C   UNL     1     -37.216 -14.052  23.426  1.00  0.00     0.114 C 
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL

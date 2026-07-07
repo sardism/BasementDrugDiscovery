@@ -1,0 +1,37 @@
+MODEL 1
+REMARK VINA RESULT:    -7.977      0.000      0.000
+REMARK INTER + INTRA:          -9.068
+REMARK INTER:                  -8.910
+REMARK INTRA:                  -0.158
+REMARK UNBOUND:                -0.158
+REMARK SMILES N=C(N)NCC1COC2(CCCCC2)O1
+REMARK SMILES IDX 1 1 2 2 3 3 4 4 5 9 6 10 7 11 15 12 8 13 9 14 10 15 14 16
+REMARK SMILES IDX 11 17 13 18 12 19
+REMARK H PARENT 1 5 3 6 3 7 4 8
+ROOT
+ATOM      1  N   UNL     1     -38.830 -16.907  30.199  1.00  0.00    -0.270 NA
+ATOM      2  C   UNL     1     -38.281 -17.829  29.499  1.00  0.00     0.185 C 
+ATOM      3  N   UNL     1     -38.645 -19.124  29.556  1.00  0.00    -0.370 N 
+ATOM      4  N   UNL     1     -37.262 -17.639  28.634  1.00  0.00    -0.354 N 
+ATOM      5  H   UNL     1     -39.587 -17.304  30.757  1.00  0.00     0.191 HD
+ATOM      6  H   UNL     1     -37.856 -19.754  29.464  1.00  0.00     0.159 HD
+ATOM      7  H   UNL     1     -39.209 -19.370  30.359  1.00  0.00     0.159 HD
+ATOM      8  H   UNL     1     -37.316 -18.243  27.819  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   4   9
+ATOM      9  C   UNL     1     -36.865 -16.286  28.248  1.00  0.00     0.150 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -37.175 -16.032  26.775  1.00  0.00     0.166 C 
+ATOM     11  C   UNL     1     -38.640 -16.088  26.422  1.00  0.00     0.197 C 
+ATOM     12  O   UNL     1     -36.792 -14.705  26.372  1.00  0.00    -0.342 OA
+ATOM     13  O   UNL     1     -38.691 -15.397  25.171  1.00  0.00    -0.347 OA
+ATOM     14  C   UNL     1     -37.652 -14.404  25.258  1.00  0.00     0.168 C 
+ATOM     15  C   UNL     1     -38.275 -13.024  25.486  1.00  0.00     0.066 C 
+ATOM     16  C   UNL     1     -36.830 -14.433  23.965  1.00  0.00     0.066 C 
+ATOM     17  C   UNL     1     -39.086 -12.553  24.280  1.00  0.00     0.006 C 
+ATOM     18  C   UNL     1     -37.639 -13.961  22.759  1.00  0.00     0.006 C 
+ATOM     19  C   UNL     1     -38.255 -12.585  22.999  1.00  0.00     0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   4   9
+TORSDOF 2
+ENDMDL

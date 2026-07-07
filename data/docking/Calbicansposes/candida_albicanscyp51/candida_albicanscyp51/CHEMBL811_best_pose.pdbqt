@@ -1,0 +1,43 @@
+MODEL 1
+REMARK VINA RESULT:    -8.068      0.000      0.000
+REMARK INTER + INTRA:         -11.285
+REMARK INTER:                 -10.427
+REMARK INTRA:                  -0.859
+REMARK UNBOUND:                -0.859
+REMARK SMILES CN(C)CCC(c1ccc(Br)cc1)c1ccccn1
+REMARK SMILES IDX 5 1 4 2 2 3 1 4 3 5 6 6 7 7 8 8 13 9 9 10 12 11 10 12 11 13
+REMARK SMILES IDX 14 14 15 15 19 16 16 17 18 18 17 19
+REMARK H PARENT
+ROOT
+ATOM      1  C   UNL     1     -43.046 -13.403  23.086  1.00  0.00     0.030 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -42.699 -14.411  24.199  1.00  0.00     0.085 C 
+BRANCH   2   3
+ATOM      3  N   UNL     1     -42.336 -15.790  23.852  1.00  0.00    -0.309 NA
+ATOM      4  C   UNL     1     -41.105 -16.265  24.465  1.00  0.00     0.104 C 
+ATOM      5  C   UNL     1     -42.403 -16.088  22.430  1.00  0.00     0.104 C 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  C   UNL     1     -42.033 -12.260  22.858  1.00  0.00     0.069 C 
+BRANCH   6   7
+ATOM      7  C   UNL     1     -42.195 -11.693  21.446  1.00  0.00    -0.039 A 
+ATOM      8  C   UNL     1     -41.385 -10.627  21.020  1.00  0.00     0.005 A 
+ATOM      9  C   UNL     1     -43.157 -12.205  20.559  1.00  0.00     0.005 A 
+ATOM     10  C   UNL     1     -41.527 -10.095  19.736  1.00  0.00     0.016 A 
+ATOM     11  C   UNL     1     -43.299 -11.673  19.275  1.00  0.00     0.016 A 
+ATOM     12  C   UNL     1     -42.483 -10.620  18.870  1.00  0.00     0.017 A 
+ATOM     13  Br  UNL     1     -42.674  -9.898  17.133  1.00  0.00    -0.051 Br
+ENDBRANCH   6   7
+BRANCH   6  14
+ATOM     14  C   UNL     1     -40.587 -12.646  23.154  1.00  0.00     0.048 A 
+ATOM     15  C   UNL     1     -39.929 -12.075  24.244  1.00  0.00     0.024 A 
+ATOM     16  N   UNL     1     -39.964 -13.510  22.311  1.00  0.00    -0.261 NA
+ATOM     17  C   UNL     1     -38.602 -12.416  24.490  1.00  0.00     0.003 A 
+ATOM     18  C   UNL     1     -38.676 -13.824  22.575  1.00  0.00     0.111 A 
+ATOM     19  C   UNL     1     -37.961 -13.309  23.642  1.00  0.00     0.020 A 
+ENDBRANCH   6  14
+ENDBRANCH   1   6
+TORSDOF 5
+ENDMDL

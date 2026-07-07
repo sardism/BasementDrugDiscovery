@@ -1,0 +1,40 @@
+MODEL 1
+REMARK VINA RESULT:    -7.127      0.000      0.000
+REMARK INTER + INTRA:          -9.190
+REMARK INTER:                  -8.793
+REMARK INTRA:                  -0.396
+REMARK UNBOUND:                -0.396
+REMARK SMILES C=CCC1(CC(C)C)C(=O)NC(=O)NC1=O
+REMARK SMILES IDX 4 1 9 2 10 3 11 4 12 5 13 6 14 7 15 8 16 9 3 12 2 13 1 14
+REMARK SMILES IDX 5 15 6 16 7 17 8 18
+REMARK H PARENT 11 10 14 11
+ROOT
+ATOM      1  C   UNL     1     -41.513 -12.736  22.257  1.00  0.00     0.132 C 
+ATOM      2  C   UNL     1     -42.175 -13.248  23.530  1.00  0.00     0.244 C 
+ATOM      3  O   UNL     1     -42.706 -12.526  24.371  1.00  0.00    -0.273 OA
+ATOM      4  N   UNL     1     -42.083 -14.594  23.758  1.00  0.00    -0.277 N 
+ATOM      5  C   UNL     1     -41.976 -15.526  22.775  1.00  0.00     0.328 C 
+ATOM      6  O   UNL     1     -42.317 -16.690  22.956  1.00  0.00    -0.248 OA
+ATOM      7  N   UNL     1     -41.548 -15.094  21.561  1.00  0.00    -0.277 N 
+ATOM      8  C   UNL     1     -41.571 -13.788  21.154  1.00  0.00     0.244 C 
+ATOM      9  O   UNL     1     -41.562 -13.523  19.954  1.00  0.00    -0.273 OA
+ATOM     10  H   UNL     1     -42.537 -14.918  24.602  1.00  0.00     0.174 HD
+ATOM     11  H   UNL     1     -41.599 -15.780  20.820  1.00  0.00     0.174 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -42.185 -11.429  21.781  1.00  0.00     0.053 C 
+BRANCH  12  13
+ATOM     13  C   UNL     1     -41.225 -10.336  21.375  1.00  0.00    -0.033 C 
+ATOM     14  C   UNL     1     -41.064  -9.907  20.117  1.00  0.00     0.004 C 
+ENDBRANCH  12  13
+ENDBRANCH   1  12
+BRANCH   1  15
+ATOM     15  C   UNL     1     -39.989 -12.547  22.560  1.00  0.00     0.030 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -39.578 -12.484  24.051  1.00  0.00    -0.016 C 
+ATOM     17  C   UNL     1     -38.234 -13.193  24.257  1.00  0.00     0.007 C 
+ATOM     18  C   UNL     1     -39.453 -11.041  24.549  1.00  0.00     0.007 C 
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 4
+ENDMDL

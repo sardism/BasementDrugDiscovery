@@ -1,0 +1,37 @@
+MODEL 1
+REMARK VINA RESULT:    -8.861      0.000      0.000
+REMARK INTER + INTRA:          -9.797
+REMARK INTER:                  -9.897
+REMARK INTRA:                   0.100
+REMARK UNBOUND:                 0.100
+REMARK SMILES CCC1(c2ccccc2)C(=O)NC(=O)N(C)C1=O
+REMARK SMILES IDX 3 1 10 2 11 3 12 4 13 5 14 6 15 7 16 8 17 9 18 10 2 12 1 13
+REMARK SMILES IDX 4 14 5 15 9 16 6 17 8 18 7 19
+REMARK H PARENT 12 11
+ROOT
+ATOM      1  C   UNL     1     -41.824 -11.930  22.257  1.00  0.00     0.153 C 
+ATOM      2  C   UNL     1     -40.832 -11.032  22.995  1.00  0.00     0.248 C 
+ATOM      3  O   UNL     1     -41.147 -10.092  23.723  1.00  0.00    -0.273 OA
+ATOM      4  N   UNL     1     -39.512 -11.285  22.751  1.00  0.00    -0.276 N 
+ATOM      5  C   UNL     1     -38.999 -12.510  22.454  1.00  0.00     0.330 C 
+ATOM      6  O   UNL     1     -37.793 -12.701  22.601  1.00  0.00    -0.248 OA
+ATOM      7  N   UNL     1     -39.895 -13.493  22.090  1.00  0.00    -0.266 N 
+ATOM      8  C   UNL     1     -39.365 -14.828  21.878  1.00  0.00     0.158 C 
+ATOM      9  C   UNL     1     -41.273 -13.365  22.224  1.00  0.00     0.250 C 
+ATOM     10  O   UNL     1     -42.015 -14.351  22.256  1.00  0.00    -0.273 OA
+ATOM     11  H   UNL     1     -38.856 -10.660  23.199  1.00  0.00     0.174 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -43.212 -11.896  22.960  1.00  0.00     0.028 C 
+ATOM     13  C   UNL     1     -43.253 -12.524  24.354  1.00  0.00     0.006 C 
+ENDBRANCH   1  12
+BRANCH   1  14
+ATOM     14  C   UNL     1     -42.045 -11.402  20.809  1.00  0.00    -0.023 A 
+ATOM     15  C   UNL     1     -43.074 -11.908  19.992  1.00  0.00     0.005 A 
+ATOM     16  C   UNL     1     -41.261 -10.350  20.294  1.00  0.00     0.005 A 
+ATOM     17  C   UNL     1     -43.275 -11.418  18.699  1.00  0.00     0.000 A 
+ATOM     18  C   UNL     1     -41.465  -9.863  19.001  1.00  0.00     0.000 A 
+ATOM     19  C   UNL     1     -42.468 -10.401  18.201  1.00  0.00     0.000 A 
+ENDBRANCH   1  14
+TORSDOF 2
+ENDMDL

@@ -1,0 +1,35 @@
+MODEL 1
+REMARK VINA RESULT:    -5.067      0.000      0.000
+REMARK INTER + INTRA:          -6.351
+REMARK INTER:                  -6.251
+REMARK INTRA:                  -0.100
+REMARK UNBOUND:                -0.100
+REMARK SMILES O=P(O)(O)OCC(Cl)(Cl)Cl
+REMARK SMILES IDX 5 1 2 2 1 3 3 4 4 6 6 8 7 9 8 10 9 11 10 12
+REMARK H PARENT 3 5 4 7
+ROOT
+ATOM      1  O   UNL     1     -37.700 -17.093  28.020  1.00  0.00    -0.283 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  P   UNL     1     -37.692 -17.631  29.523  1.00  0.00     0.469 P 
+ATOM      3  O   UNL     1     -36.366 -17.682  30.194  1.00  0.00    -0.228 OA
+BRANCH   2   4
+ATOM      4  O   UNL     1     -38.499 -19.000  29.440  1.00  0.00    -0.303 OA
+ATOM      5  H   UNL     1     -38.831 -19.166  28.541  1.00  0.00     0.223 HD
+ENDBRANCH   2   4
+BRANCH   2   6
+ATOM      6  O   UNL     1     -38.736 -16.699  30.285  1.00  0.00    -0.303 OA
+ATOM      7  H   UNL     1     -38.606 -16.764  31.250  1.00  0.00     0.223 HD
+ENDBRANCH   2   6
+ENDBRANCH   1   2
+BRANCH   1   8
+ATOM      8  C   UNL     1     -38.338 -15.837  27.789  1.00  0.00     0.229 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -37.373 -14.793  27.208  1.00  0.00     0.214 C 
+ATOM     10  Cl  UNL     1     -35.897 -14.715  28.222  1.00  0.00    -0.081 Cl
+ATOM     11  Cl  UNL     1     -36.893 -15.231  25.539  1.00  0.00    -0.081 Cl
+ATOM     12  Cl  UNL     1     -38.133 -13.171  27.184  1.00  0.00    -0.081 Cl
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 5
+ENDMDL

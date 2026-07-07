@@ -1,0 +1,43 @@
+MODEL 1
+REMARK VINA RESULT:    -5.444      0.000      0.000
+REMARK INTER + INTRA:          -6.793
+REMARK INTER:                  -6.558
+REMARK INTRA:                  -0.234
+REMARK UNBOUND:                -0.234
+REMARK SMILES N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O
+REMARK SMILES IDX 2 1 3 2 5 3 6 4 9 5 11 6 1 7 4 10 12 12 10 14 7 16 8 17
+REMARK H PARENT 1 8 1 9 4 11 12 13 10 15 8 18
+ROOT
+ATOM      1  C   UNL     1     -34.888 -20.286  30.371  1.00  0.00     0.139 C 
+ATOM      2  C   UNL     1     -34.275 -18.912  30.013  1.00  0.00     0.266 C 
+ATOM      3  O   UNL     1     -35.221 -17.867  30.183  1.00  0.00    -0.343 OA
+ATOM      4  C   UNL     1     -36.371 -18.015  29.331  1.00  0.00     0.178 C 
+ATOM      5  C   UNL     1     -37.114 -19.324  29.633  1.00  0.00     0.176 C 
+ATOM      6  C   UNL     1     -36.156 -20.519  29.537  1.00  0.00     0.167 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  N   UNL     1     -33.929 -21.395  30.183  1.00  0.00    -0.321 NA
+ATOM      8  H   UNL     1     -33.274 -21.408  30.965  1.00  0.00     0.119 HD
+ATOM      9  H   UNL     1     -33.390 -21.207  29.336  1.00  0.00     0.119 HD
+ENDBRANCH   1   7
+BRANCH   2  10
+ATOM     10  O   UNL     1     -33.198 -18.652  30.904  1.00  0.00    -0.367 OA
+ATOM     11  H   UNL     1     -32.512 -19.297  30.668  1.00  0.00     0.213 HD
+ENDBRANCH   2  10
+BRANCH   6  12
+ATOM     12  O   UNL     1     -36.856 -21.703  29.967  1.00  0.00    -0.388 OA
+ATOM     13  H   UNL     1     -37.482 -21.443  30.666  1.00  0.00     0.211 HD
+ENDBRANCH   6  12
+BRANCH   5  14
+ATOM     14  O   UNL     1     -38.185 -19.521  28.703  1.00  0.00    -0.388 OA
+ATOM     15  H   UNL     1     -37.821 -20.085  27.990  1.00  0.00     0.211 HD
+ENDBRANCH   5  14
+BRANCH   4  16
+ATOM     16  C   UNL     1     -37.265 -16.793  29.575  1.00  0.00     0.191 C 
+BRANCH  16  17
+ATOM     17  O   UNL     1     -38.225 -17.078  30.596  1.00  0.00    -0.394 OA
+ATOM     18  H   UNL     1     -38.123 -18.030  30.787  1.00  0.00     0.210 HD
+ENDBRANCH  16  17
+ENDBRANCH   4  16
+TORSDOF 6
+ENDMDL
