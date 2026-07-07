@@ -1,0 +1,41 @@
+MODEL 1
+REMARK minimizedAffinity -7.46714544
+REMARK CNNscore 0.537737429
+REMARK CNNaffinity 5.42406702
+REMARK SMILES CNNCc1ccc(C(=O)NC(C)C)cc1
+REMARK SMILES IDX 5 1 6 2 7 3 8 4 15 5 16 6 4 7 3 8 2 10 1 11 9 13 10 14 11 15
+REMARK SMILES IDX 12 17 13 18 14 19
+REMARK H PARENT 3 9 2 12 11 16
+ROOT
+ATOM      1  C   UNL     1     298.345   8.448  10.643  1.00  0.00    -0.033 A 
+ATOM      2  C   UNL     1     297.363   8.687   9.671  1.00  0.00     0.006 A 
+ATOM      3  C   UNL     1     296.010   8.719  10.020  1.00  0.00     0.014 A 
+ATOM      4  C   UNL     1     295.623   8.499  11.349  1.00  0.00     0.039 A 
+ATOM      5  C   UNL     1     296.599   8.271  12.324  1.00  0.00     0.014 A 
+ATOM      6  C   UNL     1     297.950   8.237  11.972  1.00  0.00     0.006 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     299.810   8.404  10.267  1.00  0.00     0.134 C 
+BRANCH   7   8
+ATOM      8  N   UNL     1     299.970   8.288   8.809  1.00  0.00    -0.254 NA
+ATOM      9  H   UNL     1     300.139   9.231   8.446  1.00  0.00     0.142 HD
+BRANCH   8  10
+ATOM     10  N   UNL     1     301.096   7.414   8.519  1.00  0.00    -0.261 NA
+ATOM     11  C   UNL     1     302.041   7.488   9.635  1.00  0.00     0.120 C 
+ATOM     12  H   UNL     1     301.587   7.731   7.677  1.00  0.00     0.141 HD
+ENDBRANCH   8  10
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   4  13
+ATOM     13  C   UNL     1     294.196   8.527  11.772  1.00  0.00     0.251 C 
+ATOM     14  O   UNL     1     293.906   8.425  12.959  1.00  0.00    -0.269 OA
+ATOM     15  N   UNL     1     293.259   8.643  10.765  1.00  0.00    -0.350 N 
+ATOM     16  H   UNL     1     293.561   8.684   9.801  1.00  0.00     0.164 HD
+BRANCH  15  17
+ATOM     17  C   UNL     1     291.836   8.752  11.050  1.00  0.00     0.076 C 
+ATOM     18  C   UNL     1     291.434   7.770  12.147  1.00  0.00     0.030 C 
+ATOM     19  C   UNL     1     291.487  10.182  11.450  1.00  0.00     0.030 C 
+ENDBRANCH  15  17
+ENDBRANCH   4  13
+TORSDOF 5
+ENDMDL

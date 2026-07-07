@@ -1,0 +1,80 @@
+MODEL 1
+REMARK minimizedAffinity -10.9208374
+REMARK CNNscore 0.298576295
+REMARK CNNaffinity 7.29231262
+REMARK SMILES CCCCCCC(=O)OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+REMARK SMILES IDX 10 1 9 2 7 3 8 4 6 5 5 6 4 7 3 8 2 9 1 10 11 11 12 12 13 13
+REMARK SMILES IDX 38 14 14 15 37 16 15 17 16 18 17 19 18 20 19 21 20 22 36 23
+REMARK SMILES IDX 21 24 25 25 35 26 27 27 22 28 24 29 26 30 30 31 28 32 23 33
+REMARK SMILES IDX 29 34 31 35 32 36 33 37 34 38
+REMARK H PARENT
+ROOT
+ATOM      1  C   UNL     1     297.105   8.793   8.655  1.00  0.00     0.248 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  O   UNL     1     295.837   9.424   8.919  1.00  0.00    -0.464 OA
+BRANCH   2   3
+ATOM      3  C   UNL     1     294.941   8.682   9.626  1.00  0.00     0.305 C 
+ATOM      4  O   UNL     1     295.217   7.918  10.540  1.00  0.00    -0.252 OA
+BRANCH   3   5
+ATOM      5  C   UNL     1     293.539   8.962   9.150  1.00  0.00     0.123 C 
+BRANCH   5   6
+ATOM      6  C   UNL     1     292.755   9.789  10.165  1.00  0.00     0.012 C 
+BRANCH   6   7
+ATOM      7  C   UNL     1     291.787   8.986  11.039  1.00  0.00     0.001 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     291.261   9.679  12.302  1.00  0.00    -0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     290.128   8.937  13.019  1.00  0.00    -0.003 C 
+ATOM     10  C   UNL     1     288.971   9.835  13.430  1.00  0.00     0.004 C 
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C   UNL     1     298.148   9.231   9.698  1.00  0.00     0.126 C 
+BRANCH  11  12
+ATOM     12  N   UNL     1     299.494   9.453   9.146  1.00  0.00    -0.297 NA
+ATOM     13  C   UNL     1     300.489   8.550   9.760  1.00  0.00     0.100 C 
+ATOM     14  C   UNL     1     299.913  10.865   9.264  1.00  0.00     0.100 C 
+ATOM     15  C   UNL     1     301.293   9.168  10.929  1.00  0.00     0.100 C 
+ATOM     16  C   UNL     1     301.444  11.036   9.374  1.00  0.00     0.100 C 
+ATOM     17  N   UNL     1     301.978  10.443  10.618  1.00  0.00    -0.301 NA
+BRANCH  17  18
+ATOM     18  C   UNL     1     303.440  10.323  10.556  1.00  0.00     0.086 C 
+BRANCH  18  19
+ATOM     19  C   UNL     1     303.912   8.863  10.573  1.00  0.00     0.037 C 
+BRANCH  19  20
+ATOM     20  C   UNL     1     305.244   8.624   9.853  1.00  0.00     0.124 C 
+BRANCH  20  21
+ATOM     21  N   UNL     1     306.360   8.437  10.814  1.00  0.00    -0.340 N 
+ATOM     22  C   UNL     1     307.118   9.598  11.154  1.00  0.00     0.055 A 
+ATOM     23  C   UNL     1     306.510   7.151  11.407  1.00  0.00     0.056 A 
+ATOM     24  C   UNL     1     307.075  10.782  10.381  1.00  0.00     0.027 A 
+ATOM     25  C   UNL     1     307.975   9.621  12.273  1.00  0.00     0.036 A 
+ATOM     26  C   UNL     1     305.891   5.998  10.869  1.00  0.00     0.040 A 
+ATOM     27  C   UNL     1     307.310   6.949  12.549  1.00  0.00     0.036 A 
+ATOM     28  C   UNL     1     307.825  11.921  10.699  1.00  0.00     0.002 A 
+ATOM     29  C   UNL     1     308.727  10.771  12.591  1.00  0.00     0.017 A 
+ATOM     30  S   UNL     1     308.164   8.256  13.395  1.00  0.00    -0.086 SA
+ATOM     31  C   UNL     1     306.027   4.714  11.434  1.00  0.00     0.058 A 
+ATOM     32  C   UNL     1     307.457   5.669  13.117  1.00  0.00     0.018 A 
+ATOM     33  C   UNL     1     308.653  11.917  11.808  1.00  0.00     0.001 A 
+ATOM     34  C   UNL     1     306.825   4.558  12.565  1.00  0.00     0.014 A 
+BRANCH  31  35
+ATOM     35  C   UNL     1     305.356   3.525  10.794  1.00  0.00     0.416 C 
+ATOM     36  F   UNL     1     305.354   2.432  11.605  1.00  0.00    -0.166 F 
+ATOM     37  F   UNL     1     304.054   3.753  10.467  1.00  0.00    -0.166 F 
+ATOM     38  F   UNL     1     305.965   3.132   9.639  1.00  0.00    -0.166 F 
+ENDBRANCH  31  35
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 14
+ENDMDL

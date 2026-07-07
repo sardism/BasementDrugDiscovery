@@ -1,0 +1,41 @@
+MODEL 1
+REMARK minimizedAffinity -8.37302589
+REMARK CNNscore 0.806477308
+REMARK CNNaffinity 6.6037569
+REMARK SMILES CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1
+REMARK SMILES IDX 5 1 4 2 2 3 1 4 3 5 6 6 7 7 8 8 13 9 9 10 12 11 10 12 11 13
+REMARK SMILES IDX 14 14 15 15 19 16 16 17 18 18 17 19
+REMARK H PARENT
+ROOT
+ATOM      1  C   UNL     1     293.591  11.894  11.915  1.00  0.00     0.030 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     292.884  11.663  10.565  1.00  0.00     0.085 C 
+BRANCH   2   3
+ATOM      3  N   UNL     1     293.496  12.155   9.325  1.00  0.00    -0.309 NA
+ATOM      4  C   UNL     1     294.594  11.342   8.825  1.00  0.00     0.104 C 
+ATOM      5  C   UNL     1     293.813  13.575   9.333  1.00  0.00     0.104 C 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  C   UNL     1     293.517  10.737  12.933  1.00  0.00     0.069 C 
+BRANCH   6   7
+ATOM      7  C   UNL     1     294.831   9.950  12.928  1.00  0.00    -0.039 A 
+ATOM      8  C   UNL     1     295.930  10.413  13.668  1.00  0.00     0.006 A 
+ATOM      9  C   UNL     1     294.970   8.770  12.178  1.00  0.00     0.006 A 
+ATOM     10  C   UNL     1     297.137   9.708  13.665  1.00  0.00     0.021 A 
+ATOM     11  C   UNL     1     296.176   8.065  12.175  1.00  0.00     0.021 A 
+ATOM     12  C   UNL     1     297.253   8.537  12.920  1.00  0.00     0.041 A 
+ATOM     13  Cl  UNL     1     298.740   7.671  12.918  1.00  0.00    -0.084 Cl
+ENDBRANCH   6   7
+BRANCH   6  14
+ATOM     14  C   UNL     1     292.307   9.826  12.750  1.00  0.00     0.048 A 
+ATOM     15  C   UNL     1     292.425   8.669  11.977  1.00  0.00     0.024 A 
+ATOM     16  N   UNL     1     291.129  10.197  13.314  1.00  0.00    -0.261 NA
+ATOM     17  C   UNL     1     291.307   7.859  11.797  1.00  0.00     0.003 A 
+ATOM     18  C   UNL     1     290.062   9.390  13.123  1.00  0.00     0.111 A 
+ATOM     19  C   UNL     1     290.101   8.222  12.382  1.00  0.00     0.020 A 
+ENDBRANCH   6  14
+ENDBRANCH   1   6
+TORSDOF 5
+ENDMDL

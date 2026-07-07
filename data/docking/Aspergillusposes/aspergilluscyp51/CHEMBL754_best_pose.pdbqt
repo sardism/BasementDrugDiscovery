@@ -1,0 +1,20 @@
+MODEL 1
+REMARK minimizedAffinity -3.78263497
+REMARK CNNscore 0.644240856
+REMARK CNNaffinity 3.49434853
+REMARK SMILES O=C([O-])P(=O)([O-])[O-]
+REMARK SMILES IDX 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+REMARK H PARENT
+ROOT
+ATOM      1  O   UNL     1     293.455   8.967   9.097  1.00  0.00    -0.544 OA
+ATOM      2  C   UNL     1     293.812  10.212   9.094  1.00  0.00     0.073 C 
+ATOM      3  O   UNL     1     294.729  10.696   8.317  1.00  0.00    -0.544 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  P   UNL     1     292.782  11.611  10.492  1.00  0.00    -0.021 P 
+ATOM      5  O   UNL     1     292.371  12.742   9.543  1.00  0.00    -0.350 OA
+ATOM      6  O   UNL     1     291.657  10.714  11.023  1.00  0.00    -0.807 OA
+ATOM      7  O   UNL     1     293.898  11.952  11.486  1.00  0.00    -0.807 OA
+ENDBRANCH   2   4
+TORSDOF 1
+ENDMDL

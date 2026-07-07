@@ -1,0 +1,38 @@
+MODEL 1
+REMARK minimizedAffinity -9.52526569
+REMARK CNNscore 0.142921075
+REMARK CNNaffinity 5.16979122
+REMARK SMILES N#Cc1ccc(Oc2ccc3c(c2)COB3O)cc1
+REMARK SMILES IDX 8 1 9 2 10 3 11 4 12 5 13 6 14 7 15 8 16 9 7 10 6 11 1 12
+REMARK SMILES IDX 2 13 3 14 4 15 19 16 5 17 18 18 17 19
+REMARK H PARENT 17 20
+ROOT
+ATOM      1  C   UNL     1     296.321   8.420   9.774  1.00  0.00     0.127 A 
+ATOM      2  C   UNL     1     297.314   8.843   8.915  1.00  0.00     0.047 A 
+ATOM      3  C   UNL     1     298.609   8.939   9.382  1.00  0.00     0.004 A 
+ATOM      4  C   UNL     1     298.869   8.606  10.699  1.00  0.00    -0.012 A 
+ATOM      5  C   UNL     1     297.868   8.180  11.562  1.00  0.00    -0.020 A 
+ATOM      6  C   UNL     1     296.588   8.085  11.102  1.00  0.00     0.052 A 
+ATOM      7  C   UNL     1     298.445   7.897  12.899  1.00  0.00     0.177 C 
+ATOM      8  O   UNL     1     299.808   7.807  12.761  1.00  0.00    -0.403 OA
+ATOM      9  B   UNL     1     300.170   8.582  11.585  1.00  0.00     0.491 B 
+ENDROOT
+BRANCH   1  10
+ATOM     10  O   UNL     1     294.985   8.297   9.375  1.00  0.00    -0.457 OA
+BRANCH  10  11
+ATOM     11  C   UNL     1     294.029   8.640  10.318  1.00  0.00     0.127 A 
+ATOM     12  N   UNL     1     290.150  10.129  13.732  1.00  0.00    -0.192 NA
+ATOM     13  C   UNL     1     290.994   9.800  12.991  1.00  0.00     0.099 C 
+ATOM     14  C   UNL     1     292.040   9.399  12.075  1.00  0.00     0.052 A 
+ATOM     15  C   UNL     1     291.923   9.762  10.745  1.00  0.00     0.023 A 
+ATOM     16  C   UNL     1     293.127   8.672  12.519  1.00  0.00     0.023 A 
+ATOM     17  C   UNL     1     292.938   9.370   9.870  1.00  0.00     0.048 A 
+ATOM     18  C   UNL     1     294.132   8.285  11.649  1.00  0.00     0.048 A 
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+BRANCH   9  19
+ATOM     19  O   UNL     1     301.454   9.114  11.224  1.00  0.00    -0.423 OA
+ATOM     20  H   UNL     1     301.372  10.029  10.855  1.00  0.00     0.189 HD
+ENDBRANCH   9  19
+TORSDOF 3
+ENDMDL

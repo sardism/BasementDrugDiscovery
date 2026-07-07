@@ -1,0 +1,38 @@
+MODEL 1
+REMARK minimizedAffinity -7.16704798
+REMARK CNNscore 0.30817011
+REMARK CNNaffinity 4.58840847
+REMARK SMILES N=C(N)NS(=O)(=O)c1ccc(N)cc1
+REMARK SMILES IDX 8 1 9 2 10 3 11 4 13 5 14 6 5 7 6 8 7 9 4 10 1 11 2 12 3 13
+REMARK SMILES IDX 12 18
+REMARK H PARENT 1 14 3 15 3 16 4 17 12 19 12 20
+ROOT
+ATOM      1  C   UNL     1     298.122   8.755  10.376  1.00  0.00     0.088 A 
+ATOM      2  C   UNL     1     297.211   8.363  11.357  1.00  0.00     0.024 A 
+ATOM      3  C   UNL     1     295.896   8.057  10.996  1.00  0.00     0.027 A 
+ATOM      4  C   UNL     1     295.491   8.109   9.658  1.00  0.00     0.031 A 
+ATOM      5  C   UNL     1     296.395   8.575   8.698  1.00  0.00     0.027 A 
+ATOM      6  C   UNL     1     297.713   8.884   9.046  1.00  0.00     0.024 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  S   UNL     1     299.778   9.198  10.835  1.00  0.00     0.264 S 
+ATOM      8  O   UNL     1     299.686  10.380  11.671  1.00  0.00    -0.201 OA
+ATOM      9  O   UNL     1     300.479   8.025  11.308  1.00  0.00    -0.201 OA
+BRANCH   7  10
+ATOM     10  N   UNL     1     300.449   9.739   9.406  1.00  0.00    -0.250 N 
+ATOM     11  N   UNL     1     302.126  11.104  10.247  1.00  0.00    -0.269 NA
+ATOM     12  C   UNL     1     301.481  10.632   9.253  1.00  0.00     0.199 C 
+ATOM     13  N   UNL     1     301.745  10.927   7.969  1.00  0.00    -0.369 N 
+ATOM     14  H   UNL     1     302.826  11.770   9.920  1.00  0.00     0.191 HD
+ATOM     15  H   UNL     1     301.485  10.227   7.287  1.00  0.00     0.159 HD
+ATOM     16  H   UNL     1     302.658  11.324   7.788  1.00  0.00     0.159 HD
+ATOM     17  H   UNL     1     299.926   9.399   8.610  1.00  0.00     0.183 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   4  18
+ATOM     18  N   UNL     1     294.146   7.919   9.323  1.00  0.00    -0.399 N 
+ATOM     19  H   UNL     1     293.643   7.314   9.966  1.00  0.00     0.156 HD
+ATOM     20  H   UNL     1     293.991   7.668   8.352  1.00  0.00     0.156 HD
+ENDBRANCH   4  18
+TORSDOF 3
+ENDMDL

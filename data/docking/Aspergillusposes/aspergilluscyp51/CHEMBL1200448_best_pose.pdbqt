@@ -1,0 +1,43 @@
+MODEL 1
+REMARK minimizedAffinity -7.35622406
+REMARK CNNscore 0.215083897
+REMARK CNNaffinity 4.62203121
+REMARK SMILES O=P([O-])(O)C(Sc1ccc(Cl)cc1)P(=O)([O-])O
+REMARK SMILES IDX 5 1 2 2 1 3 3 4 4 5 6 7 7 8 8 9 13 10 9 11 12 12 10 13 11 14
+REMARK SMILES IDX 14 15 15 16 16 17 17 18
+REMARK H PARENT 4 6 17 19
+ROOT
+ATOM      1  C   UNL     1     295.032   9.844  11.156  1.00  0.00     0.198 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  P   UNL     1     293.950   9.719   9.674  1.00  0.00     0.154 P 
+ATOM      3  O   UNL     1     294.497  10.424   8.456  1.00  0.00    -0.308 OA
+ATOM      4  O   UNL     1     292.500   9.895  10.078  1.00  0.00    -0.777 OA
+BRANCH   2   5
+ATOM      5  O   UNL     1     294.057   8.158   9.221  1.00  0.00    -0.353 OA
+ATOM      6  H   UNL     1     293.470   8.114   8.449  1.00  0.00     0.218 HD
+ENDBRANCH   2   5
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  S   UNL     1     295.540   8.110  11.605  1.00  0.00    -0.104 SA
+BRANCH   7   8
+ATOM      8  C   UNL     1     297.289   8.266  11.342  1.00  0.00     0.009 A 
+ATOM      9  C   UNL     1     297.793   8.596  10.082  1.00  0.00     0.016 A 
+ATOM     10  C   UNL     1     298.172   8.067  12.408  1.00  0.00     0.016 A 
+ATOM     11  C   UNL     1     299.169   8.725   9.884  1.00  0.00     0.021 A 
+ATOM     12  C   UNL     1     299.549   8.196  12.215  1.00  0.00     0.021 A 
+ATOM     13  C   UNL     1     300.041   8.528  10.952  1.00  0.00     0.041 A 
+ATOM     14  Cl  UNL     1     301.740   8.696  10.716  1.00  0.00    -0.084 Cl
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   1  15
+ATOM     15  P   UNL     1     294.259  10.575  12.698  1.00  0.00     0.154 P 
+ATOM     16  O   UNL     1     295.187  10.386  13.887  1.00  0.00    -0.308 OA
+ATOM     17  O   UNL     1     293.729  11.958  12.399  1.00  0.00    -0.777 OA
+BRANCH  15  18
+ATOM     18  O   UNL     1     292.982   9.585  12.897  1.00  0.00    -0.353 OA
+ATOM     19  H   UNL     1     292.655   9.234  12.022  1.00  0.00     0.218 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL

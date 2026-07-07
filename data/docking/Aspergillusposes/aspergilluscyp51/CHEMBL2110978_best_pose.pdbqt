@@ -1,0 +1,22 @@
+MODEL 1
+REMARK minimizedAffinity -3.46142507
+REMARK CNNscore 0.491577268
+REMARK CNNaffinity 3.28942537
+REMARK SMILES O=S(=O)(O)CI
+REMARK SMILES IDX 1 1 2 2 3 3 4 4 5 6 6 7
+REMARK H PARENT 4 5
+ROOT
+ATOM      1  O   UNL     1     301.670   8.596   9.409  1.00  0.00    -0.199 OA
+ATOM      2  S   UNL     1     301.343   9.993   9.597  1.00  0.00     0.274 S 
+ATOM      3  O   UNL     1     301.882  10.751  10.703  1.00  0.00    -0.199 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  O   UNL     1     301.789  10.717   8.223  1.00  0.00    -0.285 OA
+ATOM      5  H   UNL     1     302.436  10.135   7.768  1.00  0.00     0.234 HD
+ENDBRANCH   2   4
+BRANCH   2   6
+ATOM      6  C   UNL     1     299.559  10.198   9.481  1.00  0.00     0.241 C 
+ATOM      7  I   UNL     1     298.808  11.739  10.724  1.00  0.00    -0.066 I 
+ENDBRANCH   2   6
+TORSDOF 2
+ENDMDL

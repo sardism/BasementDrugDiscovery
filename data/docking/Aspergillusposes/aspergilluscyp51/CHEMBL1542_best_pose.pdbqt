@@ -1,0 +1,38 @@
+MODEL 1
+REMARK minimizedAffinity -7.29405785
+REMARK CNNscore 0.173715129
+REMARK CNNaffinity 5.63434315
+REMARK SMILES Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12
+REMARK SMILES IDX 1 1 2 2 3 3 4 4 5 5 9 6 10 7 11 8 12 9 19 10 13 11 18 12
+REMARK SMILES IDX 15 13 14 14 17 15 16 16 6 18 7 19 8 20
+REMARK H PARENT 16 17
+ROOT
+ATOM      1  C   UNL     1     295.447   9.952  13.986  1.00  0.00     0.154 C 
+ATOM      2  N   UNL     1     294.989  10.348  12.674  1.00  0.00    -0.302 N 
+ATOM      3  C   UNL     1     294.471  11.581  12.376  1.00  0.00     0.348 A 
+ATOM      4  N   UNL     1     294.112  11.669  11.115  1.00  0.00    -0.024 NA
+ATOM      5  C   UNL     1     294.414  10.430  10.570  1.00  0.00     0.396 A 
+ATOM      6  C   UNL     1     294.979   9.600  11.521  1.00  0.00     0.183 A 
+ENDROOT
+BRANCH   6   7
+ATOM      7  S   UNL     1     295.600   7.978  11.465  1.00  0.00    -0.041 SA
+BRANCH   7   8
+ATOM      8  C   UNL     1     297.250   8.337  10.936  1.00  0.00     0.134 A 
+ATOM      9  N   UNL     1     298.224   8.505  11.868  1.00  0.00    -0.227 NA
+ATOM     10  C   UNL     1     297.566   8.457   9.580  1.00  0.00     0.140 A 
+ATOM     11  C   UNL     1     299.473   8.764  11.433  1.00  0.00     0.225 A 
+ATOM     12  N   UNL     1     296.833   8.377   8.413  1.00  0.00    -0.232 NA
+ATOM     13  C   UNL     1     298.892   8.738   9.295  1.00  0.00     0.161 A 
+ATOM     14  N   UNL     1     299.900   8.904  10.161  1.00  0.00    -0.217 NA
+ATOM     15  C   UNL     1     297.699   8.593   7.446  1.00  0.00     0.199 A 
+ATOM     16  N   UNL     1     298.959   8.814   7.933  1.00  0.00    -0.329 N 
+ATOM     17  H   UNL     1     299.793   9.003   7.397  1.00  0.00     0.169 HD
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+BRANCH   5  18
+ATOM     18  N   UNL     1     294.113  10.157   9.183  1.00  0.00    -0.021 N 
+ATOM     19  O   UNL     1     293.373   9.192   8.941  1.00  0.00    -0.358 OA
+ATOM     20  O   UNL     1     294.582  10.933   8.336  1.00  0.00    -0.358 OA
+ENDBRANCH   5  18
+TORSDOF 3
+ENDMDL

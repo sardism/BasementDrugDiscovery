@@ -1,0 +1,43 @@
+MODEL 1
+REMARK minimizedAffinity -8.24462223
+REMARK CNNscore 0.55618751
+REMARK CNNaffinity 5.66320133
+REMARK SMILES CN(C)CCOC(c1ccccc1)c1ccccc1
+REMARK SMILES IDX 5 1 4 2 2 3 1 4 3 5 6 6 7 7 8 8 9 9 13 10 10 11 12 12 11 13
+REMARK SMILES IDX 14 14 15 15 19 16 16 17 18 18 17 19
+REMARK H PARENT
+ROOT
+ATOM      1  C   UNL     1     292.528  11.269  10.750  1.00  0.00     0.177 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     293.446  10.978   9.541  1.00  0.00     0.112 C 
+BRANCH   2   3
+ATOM      3  N   UNL     1     294.385  12.058   9.180  1.00  0.00    -0.307 NA
+ATOM      4  C   UNL     1     295.600  11.966   9.991  1.00  0.00     0.105 C 
+ATOM      5  C   UNL     1     293.782  13.382   9.324  1.00  0.00     0.105 C 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  O   UNL     1     293.218  11.575  11.962  1.00  0.00    -0.367 OA
+BRANCH   6   7
+ATOM      7  C   UNL     1     293.251  10.513  12.929  1.00  0.00     0.178 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     294.584   9.768  12.812  1.00  0.00    -0.015 A 
+ATOM      9  C   UNL     1     295.707  10.220  13.529  1.00  0.00     0.007 A 
+ATOM     10  C   UNL     1     294.714   8.579  12.072  1.00  0.00     0.007 A 
+ATOM     11  C   UNL     1     296.922   9.533  13.479  1.00  0.00     0.000 A 
+ATOM     12  C   UNL     1     295.931   7.892  12.021  1.00  0.00     0.000 A 
+ATOM     13  C   UNL     1     297.035   8.371  12.720  1.00  0.00     0.000 A 
+ENDBRANCH   7   8
+BRANCH   7  14
+ATOM     14  C   UNL     1     292.018   9.641  12.725  1.00  0.00    -0.015 A 
+ATOM     15  C   UNL     1     290.786   9.989  13.304  1.00  0.00     0.007 A 
+ATOM     16  C   UNL     1     292.092   8.475  11.945  1.00  0.00     0.007 A 
+ATOM     17  C   UNL     1     289.659   9.190  13.111  1.00  0.00     0.000 A 
+ATOM     18  C   UNL     1     290.962   7.678  11.753  1.00  0.00     0.000 A 
+ATOM     19  C   UNL     1     289.748   8.036  12.336  1.00  0.00     0.000 A 
+ENDBRANCH   7  14
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 6
+ENDMDL
