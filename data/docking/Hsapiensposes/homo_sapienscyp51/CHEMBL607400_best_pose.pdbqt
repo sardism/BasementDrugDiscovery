@@ -1,0 +1,39 @@
+MODEL 1
+REMARK minimizedAffinity -6.84527254
+REMARK CNNscore 0.66232574
+REMARK CNNaffinity 5.49833918
+REMARK SMILES CCC[C@@H]1CC(=O)N([C@@H](CC)C(N)=O)C1
+REMARK SMILES IDX 4 1 5 2 6 3 7 4 8 5 15 6 3 7 2 8 1 9 9 10 10 11 11 12 12 13
+REMARK SMILES IDX 13 14 14 15
+REMARK H PARENT 13 16 13 17
+ROOT
+ATOM      1  C   UNL     1     -28.736 -35.895  14.339  1.00  0.00     0.018 C 
+ATOM      2  C   UNL     1     -27.292 -35.930  14.849  1.00  0.00     0.105 C 
+ATOM      3  C   UNL     1     -26.641 -34.770  14.136  1.00  0.00     0.223 C 
+ATOM      4  O   UNL     1     -25.450 -34.497  14.166  1.00  0.00    -0.275 OA
+ATOM      5  N   UNL     1     -27.635 -34.011  13.532  1.00  0.00    -0.330 N 
+ATOM      6  C   UNL     1     -28.941 -34.424  13.989  1.00  0.00     0.124 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -29.771 -36.410  15.341  1.00  0.00     0.005 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -31.034 -35.552  15.454  1.00  0.00    -0.003 C 
+ATOM      9  C   UNL     1     -31.564 -35.436  16.875  1.00  0.00     0.004 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   5  10
+ATOM     10  C   UNL     1     -27.358 -32.662  13.012  1.00  0.00     0.173 C 
+BRANCH  10  11
+ATOM     11  C   UNL     1     -28.512 -32.120  12.159  1.00  0.00     0.032 C 
+ATOM     12  C   UNL     1     -29.464 -31.246  12.963  1.00  0.00     0.006 C 
+ENDBRANCH  10  11
+BRANCH  10  13
+ATOM     13  C   UNL     1     -27.044 -31.746  14.214  1.00  0.00     0.240 C 
+ATOM     14  N   UNL     1     -26.270 -30.657  13.913  1.00  0.00    -0.368 N 
+ATOM     15  O   UNL     1     -27.381 -31.974  15.371  1.00  0.00    -0.273 OA
+ATOM     16  H   UNL     1     -25.919 -30.110  14.686  1.00  0.00     0.159 HD
+ATOM     17  H   UNL     1     -25.735 -30.648  13.045  1.00  0.00     0.159 HD
+ENDBRANCH  10  13
+ENDBRANCH   5  10
+TORSDOF 5
+ENDMDL

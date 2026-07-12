@@ -1,0 +1,43 @@
+MODEL 1
+REMARK minimizedAffinity -6.49527168
+REMARK CNNscore 0.306864053
+REMARK CNNaffinity 5.11472511
+REMARK SMILES Nc1nc([O-])c2ncn(COCCO)c2n1
+REMARK SMILES IDX 11 1 10 2 9 3 2 4 3 5 16 6 4 7 15 8 6 9 7 10 8 11 5 12 1 13
+REMARK SMILES IDX 12 16 13 17 14 18
+REMARK H PARENT 1 14 1 15 14 19
+ROOT
+ATOM      1  O   UNL     1     -31.796 -38.305  19.964  1.00  0.00    -0.358 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -30.757 -38.233  18.981  1.00  0.00     0.288 C 
+BRANCH   2   3
+ATOM      3  N   UNL     1     -30.274 -36.875  18.866  1.00  0.00    -0.291 N 
+ATOM      4  C   UNL     1     -30.400 -35.715  15.532  1.00  0.00     0.221 A 
+ATOM      5  N   UNL     1     -29.875 -34.490  15.685  1.00  0.00    -0.228 NA
+ATOM      6  N   UNL     1     -30.632 -36.634  16.485  1.00  0.00    -0.193 NA
+ATOM      7  C   UNL     1     -29.484 -34.068  16.921  1.00  0.00     0.022 A 
+ATOM      8  C   UNL     1     -30.219 -36.189  17.685  1.00  0.00     0.166 A 
+ATOM      9  C   UNL     1     -29.651 -34.959  18.002  1.00  0.00     0.119 A 
+ATOM     10  N   UNL     1     -29.379 -34.913  19.368  1.00  0.00    -0.234 NA
+ATOM     11  C   UNL     1     -29.759 -36.078  19.843  1.00  0.00     0.203 A 
+ATOM     12  O   UNL     1     -28.996 -32.913  17.101  1.00  0.00    -0.857 OA
+BRANCH   4  13
+ATOM     13  N   UNL     1     -30.846 -36.012  14.246  1.00  0.00    -0.368 N 
+ATOM     14  H   UNL     1     -31.717 -36.510  14.349  1.00  0.00     0.159 HD
+ATOM     15  H   UNL     1     -30.898 -35.100  13.803  1.00  0.00     0.159 HD
+ENDBRANCH   4  13
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  16
+ATOM     16  C   UNL     1     -31.530 -39.294  20.963  1.00  0.00     0.190 C 
+BRANCH  16  17
+ATOM     17  C   UNL     1     -30.078 -39.761  20.880  1.00  0.00     0.184 C 
+BRANCH  17  18
+ATOM     18  O   UNL     1     -30.005 -41.166  21.109  1.00  0.00    -0.394 OA
+ATOM     19  H   UNL     1     -30.716 -41.567  20.570  1.00  0.00     0.210 HD
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH   1  16
+TORSDOF 6
+ENDMDL

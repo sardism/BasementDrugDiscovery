@@ -1,0 +1,45 @@
+MODEL 1
+REMARK minimizedAffinity -8.12666607
+REMARK CNNscore 0.791932166
+REMARK CNNaffinity 6.61470509
+REMARK SMILES CCCCCCOc1nsnc1C1=CCCN(C)C1
+REMARK SMILES IDX 5 1 4 2 3 3 2 4 1 5 6 6 7 7 8 8 9 9 12 10 10 11 11 12 13 13
+REMARK SMILES IDX 14 14 19 15 15 16 17 17 16 18 18 19
+REMARK H PARENT
+ROOT
+ATOM      1  C   UNL     1     -30.813 -35.975  15.191  1.00  0.00     0.042 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -31.184 -36.312  16.637  1.00  0.00     0.003 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -31.726 -35.161  17.493  1.00  0.00    -0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -32.548 -35.594  18.711  1.00  0.00    -0.003 C 
+ATOM      5  C   UNL     1     -32.062 -35.001  20.024  1.00  0.00     0.004 C 
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  C   UNL     1     -29.961 -34.715  15.030  1.00  0.00     0.231 C 
+BRANCH   6   7
+ATOM      7  O   UNL     1     -29.135 -34.867  13.876  1.00  0.00    -0.475 OA
+BRANCH   7   8
+ATOM      8  C   UNL     1     -27.799 -34.896  14.121  1.00  0.00     0.253 A 
+ATOM      9  N   UNL     1     -27.241 -35.995  14.635  1.00  0.00    -0.135 NA
+ATOM     10  C   UNL     1     -26.902 -33.789  13.865  1.00  0.00     0.145 A 
+ATOM     11  S   UNL     1     -25.626 -35.601  14.807  1.00  0.00     0.072 S 
+ATOM     12  N   UNL     1     -25.633 -34.034  14.227  1.00  0.00    -0.169 NA
+BRANCH  10  13
+ATOM     13  C   UNL     1     -27.308 -32.519  13.323  1.00  0.00    -0.005 C 
+ATOM     14  C   UNL     1     -28.271 -32.390  12.390  1.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1     -26.595 -31.313  13.906  1.00  0.00     0.121 C 
+ATOM     16  C   UNL     1     -28.690 -31.046  11.867  1.00  0.00     0.043 C 
+ATOM     17  N   UNL     1     -26.714 -30.069  13.116  1.00  0.00    -0.302 NA
+ATOM     18  C   UNL     1     -28.106 -29.876  12.680  1.00  0.00     0.088 C 
+ATOM     19  C   UNL     1     -25.778 -30.062  11.990  1.00  0.00     0.105 C 
+ENDBRANCH  10  13
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 7
+ENDMDL
